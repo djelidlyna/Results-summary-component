@@ -12,7 +12,7 @@ body{
     width: 100%;
 }
 .TOTALE{
-    
+    box-shadow: 5px 5px 30px #2731bb18;
      border: 1px solid #efefe9;
     height: 400px;
     width: 600px;
